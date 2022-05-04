@@ -1,6 +1,5 @@
 ## Olá! Eu sou Jonathan Macedo
 
-- 🔭 Hoje trabalho com Logistica e Transportes.
 - 📖 Estudando Front-End.
 - 📈 Procuro agregar com meus conhecimentos da melhor forma possível.
 - 🎮 Meu hobby é jogar e assistir. 
