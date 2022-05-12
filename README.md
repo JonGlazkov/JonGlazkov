@@ -1,6 +1,6 @@
 ## Olá! Eu sou Jonathan Macedo
 
-- 📖 Estudando Front-End.
+- 📖 Dev Front-End.
 - 📈 Procuro agregar com meus conhecimentos da melhor forma possível.
 - 🎮 Meu hobby é jogar e assistir. 
 
