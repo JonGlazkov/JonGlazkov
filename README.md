@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/JonGlazkov">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JonGlazkov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JonGlazkov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonGlazkov&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
@@ -14,7 +14,7 @@
   <img align="center" alt="Jon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="right" alt="Jon-pic" height="170" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/9ygP6kLF2ZIL11PAbv9mcnnYkNYVuBwUUSnYGRlKLA0/https/share-cdn.picrew.me/shareImg/org/202201/41153_1qzMKXzM.png">
+ <img align="right" alt="Jon-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/516398929571741698/975983326403891230/jon-animated.png">
 </div>
   
   
