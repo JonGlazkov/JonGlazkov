@@ -1,4 +1,4 @@
-## Olá! Eu sou Jonathan Macedo
+## Olá! Eu sou Jonathan Ventura
 
 - 📖 Dev Front-End.
 - 📈 Procuro agregar com meus conhecimentos da melhor forma possível.
