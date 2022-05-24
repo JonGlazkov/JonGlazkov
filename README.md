@@ -1,8 +1,9 @@
-## Olá! Eu sou Jonathan Ventura
+## Olá!<br> Eu sou Jonathan Ventura!
 
 - 📖 Dev Front-End.
 - 📈 Procuro agregar com meus conhecimentos da melhor forma possível.
 - 🎮 Meu hobby é jogar e assistir. 
+- 📷 Tenho paixão por fotografia e música.
 
 <div align="center">
   <a href="https://github.com/JonGlazkov">
