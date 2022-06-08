@@ -5,10 +5,14 @@
 - 🎮 Meu hobby é jogar e assistir. 
 - 📷 Tenho paixão por fotografia e música.
 
+- <a href="https://jonglazkov.github.io" text-decoration="none">Meu portifolio</a>
+
+---
+
 <div align="center">
   <a href="https://github.com/JonGlazkov">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JonGlazkov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonGlazkov&layout=compact&langs_count=7&theme=dark"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonGlazkov&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
