@@ -1,7 +1,7 @@
 ## Olá!<br> Eu sou Jonathan Ventura !
 
 - 📖 Dev Front-End.
-- 📈 Procuro agregar com meus conhecimentos da melhor forma possível.
+- 📈 Atualmente, estou buscando oportunidades que me permitam desenvolver e promover tecnologias que beneficiem tanto empresas como a sociedade.
 - 🎮 Meu hobby é jogar e assistir. 
 - 📷 Tenho paixão por fotografia e música.
 
