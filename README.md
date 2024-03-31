@@ -18,7 +18,7 @@
 </div>
 
 ### What i know
-<div style="display: inline_block"><br>
+<div display="inline_block">
  <img align="center" alt="Jon-React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
  <img align="center" alt="Jon-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> 
  <img align="center" alt="Jon-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -31,6 +31,7 @@
  <img align="center" alt="Jon-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
+  <br>
 
   <div>
   <a href="https://steamcommunity.com/id/Potrinho/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
