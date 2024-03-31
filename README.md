@@ -1,14 +1,13 @@
 
-<h2> Olá!<br>Eu sou Jonathan Ventura !</h2>
+<h2> Hi!<br>I'm Jonathan Ventura !</h2>
 
 <i class="devicon-react-original colored">
 
-- 📖 Desenvolvedor Front-End.
-- 📈 Atualmente, estou buscando oportunidades que me permitam desenvolver e promover tecnologias que beneficiem tanto empresas como a sociedade.
-- 🎮 Meu hobby é jogar e assistir. 
-- 📷 Tenho paixão por fotografia e música.
+- 📖 Fullstack Developer.
+- 🎮 My hobby it's to play, watch series and code 😁. 
+- 📷 I have passion for photographies and music.
 
-- <a href="https://jonglazkov.github.io" text-decoration="none">Meu portifolio</a>
+- <a href="https://jonglazkov.github.io" text-decoration="none">My website</a>
 
 ---
 
@@ -18,14 +17,18 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonGlazkov&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### O que sei
+### What i know
 <div style="display: inline_block"><br>
- <img align="center" alt="Jon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Jon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
- <img align="center" alt="Jon-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Jon-React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
  <img align="center" alt="Jon-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> 
  <img align="center" alt="Jon-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+ <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+ <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
+ <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+ <img align="center" height="30" widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+ <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
+
 
 </div>
   
