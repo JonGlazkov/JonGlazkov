@@ -7,7 +7,7 @@
 - 🎮 My hobby it's to play, watch series and code 😁. 
 - 📷 I have passion for photographies and music.
 
-- <a href="https://jonglazkov.github.io" text-decoration="none">My website</a>
+- <a href="https://jonventura.dev" text-decoration="none">My website</a>
 
 ---
 
