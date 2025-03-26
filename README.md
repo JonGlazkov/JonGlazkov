@@ -3,7 +3,7 @@
 
 <i class="devicon-react-original colored">
 
-- 📖 Fullstack Developer.
+- 📖 Fullstack Software Engineer.
 - 🎮 My hobby it's to play, watch series and code 😁. 
 - 📷 I have passion for photographies and music.
 
